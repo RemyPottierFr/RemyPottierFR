@@ -1,20 +1,15 @@
-## [Hello there 👨‍🦰](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
+# [Hello there 👨‍🦰](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
-### 💪 I'm not General Grievous (don't have 4 arms sorry 😥) but I do some good things with my hands !
+## Let me introduce myself
 
-Not very active in public but in private something happen
+#### ❌ I'm not General Grievous (don't have 4 arms sorry 😥 )
 
-<!--
-**RemyPottierFr/RemyPottierFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ✅ Good developper 👨‍💻
 
-Here are some ideas to get you started:
+#### ✅ Love Javascript 🥰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ✅ Absolutely crazy about challenges 🤪
+
+See my link if you know more about me !
+
+My portfolio arrives quickly it's promised !
