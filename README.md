@@ -12,4 +12,4 @@
 
 See my link if you know more about me !
 
-My portfolio arrives quickly it's promised !
+My portfolio arrives quickly i promise !
