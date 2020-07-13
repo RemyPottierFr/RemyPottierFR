@@ -1,4 +1,8 @@
-### Hi there 👋
+## [Hello there 👨‍🦰](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
+
+### 💪 I'm not General Grievous (don't have 4 arms sorry 😥) but I do some good things with my hands !
+
+Not very active in public but in private something happen
 
 <!--
 **RemyPottierFr/RemyPottierFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
