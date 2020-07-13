@@ -6,7 +6,7 @@
 
 #### ✅ Good developper 👨‍💻
 
-#### ✅ Love Javascript 🥰
+#### ✅ Love Javascript (PHP is also my friend sometimes !) 🥰
 
 #### ✅ Absolutely crazy about challenges 🤪
 
