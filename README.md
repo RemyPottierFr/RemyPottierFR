@@ -4,6 +4,6 @@
 
 ## Who I am ?
 
-- A young freelance with 3 year experience
-..- 2 years as self-taught
-..- 1 year where I obtain Bac+2 degree with Wild Code School
+1. A young freelance with 3 year experience
+..1. 2 years as self-taught
+..2. 1 year where I obtain Bac+2 degree with Wild Code School
