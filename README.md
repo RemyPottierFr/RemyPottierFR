@@ -13,4 +13,6 @@
 
 #### 🌟 Discover more about me here 👇
 
-[![logo](https://github.com/RemyPottierFr/RemyPottierFR/blob/master/images/socials/maltLogo.png?raw=true =32x32)](https://www.malt.fr/profile/remypottier) [![logo](https://raw.githubusercontent.com/RemyPottierFr/RemyPottierFR/master/images/socials/linkedinLogo.webp =32x32)](https://www.linkedin.com/in/remypottierfr) [![logo](https://raw.githubusercontent.com/RemyPottierFr/RemyPottierFR/master/images/socials/TwitterLogo.svg =32x32)](https://twitter.com/RemyPottier37)
+#### [<img src="https://raw.githubusercontent.com/RemyPottierFr/RemyPottierFR/master/images/socials/maltLogo.png" alt="nice" width="24"/> Malt](https://www.malt.fr/profile/remypottier)  
+#### [<img src="https://raw.githubusercontent.com/RemyPottierFr/RemyPottierFR/master/images/socials/linkedinLogo.webp" width="24" /> LinkedIn](https://www.linkedin.com/in/remypottierfr)   
+#### [<img src="https://raw.githubusercontent.com/RemyPottierFr/RemyPottierFR/master/images/socials/TwitterLogo.svg" width="24" /> Twitter](https://twitter.com/RemyPottier37)
