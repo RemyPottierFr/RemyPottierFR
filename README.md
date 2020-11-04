@@ -1,15 +1,5 @@
-# [Hello there 👨‍🦰](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
+# Hi 👋
 
-## Let me introduce myself
+## Don't be afraid and take a look to my projects 🌟
 
-#### ❌ I'm not General Grievous (don't have 4 arms sorry 😥 )
-
-#### ✅ Good developper 👨‍💻
-
-#### ✅ Love Javascript (PHP is also my friend sometimes !) 🥰
-
-#### ✅ Absolutely crazy about challenges 🤪
-
-See my Malt link if you want to know more about me !
-
-My portfolio arrives quickly i promise !
+![views](https://komarev.com/ghpvc/?username=RemypottierFR&label=PROFILE+VIEWS)
