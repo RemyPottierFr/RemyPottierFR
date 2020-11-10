@@ -3,8 +3,8 @@
 ### Hi, I'm Rémy 👋
 #### 🌟 Who I am ? 🚀
 
-1. A young freelance with 3 years experience 💪
-	• 2 years as self-taught 🏃‍♂️
+1. A young freelance with 3 years experience 💪 <br />
+	• 2 years as self-taught 🏃‍♂️ <br />
 	• 1 year where I obtain Bac+2 degree with [Wild Code School](https://github.com/orgs/WildCodeSchool/teams/sept2019-js-react-tours) 🤓
 2. I'm passionate by every sciences like biology, archeology and so much more ! 🔭
 3. Really love hackathon and coding challenges, so if you need a teammate, I'm here ! 🔥
