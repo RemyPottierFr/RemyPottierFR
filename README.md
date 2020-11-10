@@ -1,7 +1,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=RemypottierFR&label=PROFILE+VIEWS)
 ### Hi, I'm Rémy 👋
-#### 🌟 Who I am ? 🚀
+#### 🌟 Who I am ?
 
 1. A young freelance with 3 years experience 💪 <br />
 	• 2 years as self-taught 🏃‍♂️ <br />
